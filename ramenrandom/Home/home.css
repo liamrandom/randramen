@@ -1,0 +1,12 @@
+body{
+  font-family: monospace;
+}
+
+main{
+  color: aliceblue;
+  font-size: larger;
+}
+
+main h2{
+  text-align: center;
+}
