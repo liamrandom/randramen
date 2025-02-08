@@ -4,6 +4,15 @@ body {
   background-color: #252525;
 }
 
+main{
+  color: aliceblue;
+  font-size: larger;
+}
+
+main h2{
+  text-align: center;
+}
+
 .navbar{
   display: flex;
 }
